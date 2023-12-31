@@ -1,0 +1,8 @@
+C:\Users\merye\OneDrive\Masaüstü\C#\hesap_makinesi\hesap_makinesi\bin\Debug\hesap_makinesi.exe.config
+C:\Users\merye\OneDrive\Masaüstü\C#\hesap_makinesi\hesap_makinesi\bin\Debug\hesap_makinesi.exe
+C:\Users\merye\OneDrive\Masaüstü\C#\hesap_makinesi\hesap_makinesi\bin\Debug\hesap_makinesi.pdb
+C:\Users\merye\OneDrive\Masaüstü\C#\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.csproj.AssemblyReference.cache
+C:\Users\merye\OneDrive\Masaüstü\C#\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\merye\OneDrive\Masaüstü\C#\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.csproj.CoreCompileInputs.cache
+C:\Users\merye\OneDrive\Masaüstü\C#\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.exe
+C:\Users\merye\OneDrive\Masaüstü\C#\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.pdb
